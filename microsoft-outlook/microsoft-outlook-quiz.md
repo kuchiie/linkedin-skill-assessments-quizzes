@@ -19,7 +19,7 @@ Can view when I'm busy. https://support.microsoft.com/en-us/office/share-an-outl
 #### 3. Your boss sends you an email with a request to set up a meeting and copies all meeting attendees on the message. What is the fastest way to create the calendar appointment
 
 - [ ] Click New Items > New Appointment.
-- [ ] Click Calendar > New Meeting, and then copy and paste information as needed.
+- [x] Click Calendar > New Meeting, and then copy and paste information as needed.
 - [ ] with the email open, click Meeting on the Home ribbon or Message tab.
 - [ ] Click Reply All.
 
@@ -82,7 +82,7 @@ C. Read receipts are expensive, so some organizations turn them off.
 
 - [ ] if your attendance is mandatory
 - [ ] ifthe meeting is high or low priority
-- [ ] the amount of time you have between this meeting and your next event
+- [x] the amount of time you have between this meeting and your next event
 - [ ] if the meeting is adjacent to another event in your calendar
 
 #### 12. What appears on your screen whenever a new email arrives?
@@ -269,7 +269,7 @@ C. Some people have already accepted, so you must cancel this meeting and create
 #### 37. When accepting a meeting invitation, what happens if you click "Do not send a response"?
 
 - [ ] Outlook will send an email to the meeting organizer on your behalf
-- [ ] The meeting organizer will not receive an email with your response, and your response will be recorded
+- [x] The meeting organizer will not receive an email with your response, and your response will be recorded
 - [ ] The meeting organizer will not receive an email with your response, and your response will not be recorded
 - [ ] None of these answers
 
@@ -388,7 +388,7 @@ D. Because you cannot create a search folder for a subfolder
 #### 53. When adding a calendar to view, which is not a valid option?
 
 - [ ] From Internet
-- [ ] From Contacts
+- [x] From Contacts
 - [ ] From Address Book
 - [ ] From Room List
 
@@ -416,7 +416,7 @@ D. Because you cannot create a search folder for a subfolder
 #### 57. What does the ignore button allow you to do?
 
 - [ ] Flag yourself as unavailable to specific coworkers.
-- [ ] Route all future emails from a user directly to the Deleted Items folder.
+- [x] Route all future emails from a user directly to the Deleted Items folder.
 - [ ] Skip all misspellings of a specific word.
 - [ ] Turn off all reminders and notifications.
 
@@ -425,13 +425,13 @@ D. Because you cannot create a search folder for a subfolder
 - [ ] importance level
 - [ ] priority level
 - [ ] category
-- [ ] due date
+- [x] due date
 
 #### 59. What happens when you drag an email to the Calendar icon?
 
 - [ ] The Archive window opens.
 - [ ] Outlook schedule a reminder.
-- [ ] Outlook schedule a appointment.
+- [x] Outlook schedule a appointment.
 - [ ] The Work Week calendar view opens.
 
 #### 60. In this image, what do you use to move between Mail, Calendar, People and Tasks?
@@ -443,7 +443,7 @@ D. Because you cannot create a search folder for a subfolder
 
 #### 61. It is currently the week of April 23. You are viewing the week of May 21 in your Outlook calendar. You switch to email then back to the calendar. Which dates do the calendar display now?
 
-- [ ] the week of May 21
+- [x] the week of May 21
 - [ ] the month of April
 - [ ] the month of May
 - [ ] the week of April 23
